@@ -6,6 +6,8 @@ In this assessment, I've created a dashboard with three tabs. They are
 2. Future Technology Used
 3. Demographics
 
+Here is the link to the original cognos dashboard. [Link](https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssesment&action=view&mode=dashboard&subView=model0000018f420ee5ca_00000002)
+
 The first two tabs uses `m5_survey_data_technologies_normalised.csv` and the last tab uses `m5_survey_data_demographics.csv`.
 
 Each tab is a 2x2 grid i.e. in each tab 4 visualizations are available.
